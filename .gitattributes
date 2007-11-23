@@ -1,6 +1,16 @@
 * text=auto !eol
 /boost-build.jam svneol=native#text/plain
 build/build.jam svneol=native#text/plain
+example/expat/build.jam svneol=native#text/plain
+example/gif/build.jam svneol=native#text/plain
+example/jpeg/build.jam svneol=native#text/plain
+example/libtiff/build.jam svneol=native#text/plain
+example/lua/build.jam svneol=native#text/plain
+example/mng/build.jam svneol=native#text/plain
+example/osg/build.jam svneol=native#text/plain
+example/png/build.jam svneol=native#text/plain
+example/tinyxml/build.jam svneol=native#text/plain
+example/zlib/build.jam svneol=native#text/plain
 ext/bass.jam svneol=native#text/plain
 ext/boost.jam svneol=native#text/plain
 ext/botan.jam svneol=native#text/plain
