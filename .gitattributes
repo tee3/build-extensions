@@ -1,5 +1,6 @@
 * text=auto !eol
 /boost-build.jam svneol=native#text/plain
+example/boost/build.jam svneol=native#text/plain
 example/botan/build.jam svneol=native#text/plain
 example/expat/build.jam svneol=native#text/plain
 example/freeimage/build.jam svneol=native#text/plain
