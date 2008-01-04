@@ -44,3 +44,7 @@ ext/windows-psdk.jam svneol=native#text/plain
 ext/wxwidgets.jam svneol=native#text/plain
 ext/zlib.jam svneol=native#text/plain
 /project-root.jam svneol=native#text/plain
+test/ext/test-using-a.jam svneol=native#text/plain
+test/ext/test-using-b.jam svneol=native#text/plain
+test/main.cpp svneol=native#text/plain
+test/test-using/build.jam svneol=native#text/plain
