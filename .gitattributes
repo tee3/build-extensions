@@ -32,6 +32,7 @@ ext/g3d.jam svneol=native#text/plain
 ext/gif.jam svneol=native#text/plain
 ext/gigabase.jam svneol=native#text/plain
 ext/gtk.jam svneol=native#text/plain
+ext/imath.jam svneol=native#text/plain
 ext/irrlicht.jam svneol=native#text/plain
 ext/jpeg.jam svneol=native#text/plain
 ext/lib3ds.jam svneol=native#text/plain
